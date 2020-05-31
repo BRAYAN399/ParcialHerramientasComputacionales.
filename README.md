@@ -1,2 +1,1 @@
-# herramientas-
-Herramientas
+**_el problema a resolver es otorgar a diferentes productos diferentes descuentos, dependiendo de su rol en la universidad, para lo cual se utiliza el lenguaje de python, en donde se crea un algoritmo el cual recibe como entrada; el código, cantidad y precio del producto, además cedula, y rol del comprador. el algoritmo da como resultado el valor total del producto con el descuento incluido, para esto se calcula con una multiplicación del precio original por las unidades y por el descuento segun el rol._**
