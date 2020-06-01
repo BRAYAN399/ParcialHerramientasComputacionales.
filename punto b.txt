@@ -1,0 +1,5 @@
+•	¿Qué tipo de errores se presentaron o se pueden presentar con su implementación al problema?
+Un tipo de error que es posible que se dé es de tipo lógico, pues las al momento de ingresar datos, puede ser que calcule y de un resultado, pero este no puede ser el esperado. En este caso es difícil que se dé ese caso, pues el código no es complejo. Por otra parte tenemos el error en tiempo de ejecución, el cual es muy posible que se dé, pues las entradas son números, pero si se ingresan letras, no hay forma que las interprete y de una solución.
+
+•	¿Qué estrategias podría usar para solucionar estos errores?
+Para solucionar los errores en tiempo de ejecución podemos usar un mensaje para la persona que usa el código, diciendo que en cierta entrada de datos solo se aceptan ciertos caracteres, como por ejemplo en el precio de cada producto, pues habría que especificar que sean números los que ingresen, sino no se llevará a cabo la operación.
